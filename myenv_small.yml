@@ -1,0 +1,10 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+prefix: /home/thandar/miniconda3/envs/myenv
